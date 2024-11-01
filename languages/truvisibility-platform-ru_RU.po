@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TruVISIBILITY All-In-One Marketing Suite 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/truvisibility-platform\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-15T11:26:17+02:00\n"
+"PO-Revision-Date: 2024-04-15 12:35+0300\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: truvisibility-platform\n"
+
+#. Plugin Name of the plugin
+msgid "TruVISIBILITY All-In-One Marketing Suite"
+msgstr "TruVISIBILITY - универсальный маркетинговый пакет"
+
+#. Description of the plugin
+msgid "The TruVISIBILITY Plugin integrates your website with their all-in-one Marketing Suite featuring a CRM, Email Automation, Forms, & Live Chat/Chatbots."
+msgstr "Плагин TruVISIBILITY интегрирует ваш веб-сайт с их универсальным маркетинговым пакетом, включающим CRM, автоматизацию электронной почты, формы и чат/чат-боты."
+
+#. Author of the plugin
+msgid "TruVisibility, LLC"
+msgstr "TruVisibility, LLC"
+
+#. Author URI of the plugin
+msgid "https://truvisibility.com"
+msgstr "https://truvisibility.com"
+
+#: admin/class-truvisibility-platform-admin.php:123
+#: admin/class-truvisibility-platform-admin.php:124
+#: admin/views/loading.php:9
+#: admin/views/unauthorized.php:34
+#: build/index.js:1
+msgid "TruVISIBILITY"
+msgstr "TruVISIBILITY"
+
+#: admin/class-truvisibility-platform-admin.php:256
+msgid "Embedded Widget"
+msgstr "Встроенный виджет"
+
+#: admin/class-truvisibility-platform-admin.php:259
+#: admin/class-truvisibility-platform-admin.php:282
+msgid "Copy"
+msgstr "Копировать"
+
+#: admin/views/main.php:32
+msgid "Chat"
+msgstr "Чат"
+
+#: admin/views/main.php:33
+msgid "Add a chatbot or Live Chat."
+msgstr "Добавить чат-бота или чат в реальном времени."
+
+#: admin/views/main.php:35
+msgid "Select chat widget to copy shortcode"
+msgstr "Выберите чат для копирования шорткода"
+
+#: admin/views/main.php:36
+msgid "Create A Chat Widget"
+msgstr "Создайте чат-виджет"
+
+#: admin/views/main.php:43
+#: admin/views/unauthorized.php:99
+msgid "Forms"
+msgstr "Формы"
+
+#: admin/views/main.php:44
+msgid "Utilize Forms on your website."
+msgstr "Используйте формы на вашем сайте."
+
+#: admin/views/main.php:46
+msgid "Select form widget to copy shortcode"
+msgstr "Выберите форму для копирования шорткода"
+
+#: admin/views/main.php:47
+msgid "Create a New Form"
+msgstr "Создайте форму"
+
+#: admin/views/main.php:54
+#: admin/views/unauthorized.php:74
+msgid "CRM"
+msgstr "CRM"
+
+#: admin/views/main.php:55
+msgid "Manage your customer lists."
+msgstr "Управляйте вашими списками клиентов."
+
+#: admin/views/main.php:62
+msgid "Messaging"
+msgstr "Маркетинг"
+
+#: admin/views/main.php:63
+msgid "Send email messages to your customers."
+msgstr "Отправляйте письма своим покупателям."
+
+#: admin/views/main.php:70
+msgid "Connection denied"
+msgstr "В подключении отказано"
+
+#: admin/views/main.php:73
+msgid "Please contact your account administrator"
+msgstr "Пожалуйста, обратитесь к администратору аккаунта"
+
+#: admin/views/main.php:84
+msgid " is now connected to the TruVISIBILITY All-In-One Digital Marketing Suite"
+msgstr " подключен к TruVISIBILITY"
+
+#: admin/views/main.php:93
+msgid "Go To Your TruVISIBILITY Account"
+msgstr "В аккаунт TruVISIBILITY"
+
+#: admin/views/main.php:96
+msgid "Go To TruVISIBILITY Support"
+msgstr "В Базу знаний"
+
+#: admin/views/main.php:107
+msgid "Disconnect the TruVISIBILITY Plugin"
+msgstr "Отключить Плагин TruVISIBILITY"
+
+#: admin/views/main.php:111
+msgid "By disconnecting the TruVISIBILITY plugin it will remove the connection between TruVISIBILITY and this WordPress website. The existing data held in your TruVISIBILITY account will remain available. New data will no longer be added to your TruVISIBILITY Account."
+msgstr "При отключении плагина соединение между TruVISIBILITY и WordPress-сайтом будет разорвано. Существующие данные в вашем аккаунте TruVISIBILITY сохранятся. Новые данные с этого сайта перестанут поступать в ваш аккаунт TruVISIBILITY."
+
+#: admin/views/main.php:114
+msgid "Cancel"
+msgstr "Отменить"
+
+#: admin/views/main.php:115
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: admin/views/product-tile.php:8
+msgid "Manage"
+msgstr "Управление"
+
+#: admin/views/settings-modal.php:8
+#: admin/views/user-info-header.php:9
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/views/settings-modal.php:21
+msgid "You can read more about GDPR in our "
+msgstr "Вы можете прочитать больше о GDPR в нашей "
+
+#: admin/views/settings-modal.php:23
+msgid "Article."
+msgstr "Статье"
+
+#: admin/views/settings-modal.php:33
+msgid "GDPR"
+msgstr "GDPR"
+
+#: admin/views/settings-modal.php:40
+msgid "Privacy Policy URL"
+msgstr "Privacy Policy URL"
+
+#: admin/views/settings-modal.php:45
+msgid "Enter URL"
+msgstr "Введите URL"
+
+#: admin/views/settings-modal.php:53
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/views/signin-link-header.php:3
+msgid "Sign In"
+msgstr "Войти"
+
+#: admin/views/unauthorized.php:39
+msgid "Digital Marketing Suite"
+msgstr "Инструменты для диджитал-маркетинга"
+
+#: admin/views/unauthorized.php:45
+msgid "No Monthly Fees"
+msgstr "Без ежемесячных платежей"
+
+#: admin/views/unauthorized.php:48
+msgid "No Credit Card Required"
+msgstr "Не нужно привязывать карту"
+
+#: admin/views/unauthorized.php:56
+msgid "Sites/Blogs"
+msgstr "Сайты/Блоги"
+
+#: admin/views/unauthorized.php:62
+msgid "Landing Pages"
+msgstr "Лендинги"
+
+#: admin/views/unauthorized.php:68
+msgid "Email Automation"
+msgstr "Маркетинг"
+
+#: admin/views/unauthorized.php:80
+msgid "Live Chat"
+msgstr "Чаты"
+
+#: admin/views/unauthorized.php:86
+msgid "Chatbots"
+msgstr "Чат-боты"
+
+#: admin/views/unauthorized.php:92
+msgid "Drive"
+msgstr "Диск"
+
+#: admin/views/unauthorized.php:104
+#: build/index.js:1
+msgid "Connect Plugin"
+msgstr "Подключить Плагин"
+
+#: admin/views/user-info-header.php:4
+msgid "TruVISIBILITY Plugin connected to "
+msgstr "TruVISIBILITY плагин подключен к "
+
+#: admin/views/user-info-header.php:16
+msgid "Disconnect Plugin"
+msgstr "Отключить Плагин"
+
+#: build/block.json
+#: src/block.json
+msgctxt "block title"
+msgid "TruVISIBILITY Forms"
+msgstr "TruVISIBILITY Формы"
+
+#: build/block.json
+#: src/block.json
+msgctxt "block description"
+msgid "Display a TruVISIBILITY Form"
+msgstr "Выбрать и показать вашу TruVISIBILITY форму"

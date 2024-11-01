@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "truvisibility-platform/form-block",
+  "title": "TruVISIBILITY Forms",
+  "description": "Display a TruVISIBILITY Form",
+  "category": "text",
+  "attributes": {
+    "formId": {
+      "type": "string",
+      "default": ""
+    },
+    "formName": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {
+    "html": true
+  },
+  "textdomain": "truvisibility-platform",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
